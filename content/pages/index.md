@@ -8,7 +8,7 @@ sections:
       - label: Whatsapp
         url: 'https://wa.me/+919987129247'
         style: primary
-      - label: telegram
+      - label: __ telegram
         url: /contact
         style: secondary
     align: left

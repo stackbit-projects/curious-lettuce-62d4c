@@ -30,7 +30,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/Screenshot 2021-03-20 at 10.46.06 PM.png"
     },
     "footer": {
         "has_nav": true,

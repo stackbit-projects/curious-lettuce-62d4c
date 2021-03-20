@@ -11,6 +11,7 @@ sections:
       - label: __    telegram
         url: /contact
         style: secondary
+        new_window: true
     align: left
     image_alt: Hero placeholder image
     image_position: right

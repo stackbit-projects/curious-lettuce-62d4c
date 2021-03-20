@@ -23,7 +23,8 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - title: lorem-ipsum
-    team: []
+    team:
+      - content/data/team/person-ux9763h97.json
     type: team_section
   - type: blog_feed_section
     title: What's New

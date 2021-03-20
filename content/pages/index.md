@@ -9,7 +9,7 @@ sections:
         url: 'https://wa.me/+919987129247'
         style: primary
       - label: __    telegram
-        url: /contact
+        url: 'https://t.me/joinchat/4JLfaADLlLcyY2Rl '
         style: secondary
         new_window: true
     align: left

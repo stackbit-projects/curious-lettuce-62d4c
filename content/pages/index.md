@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: ⭐BET EXCHANGE OFFICIAL⭐
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Khelo >> Kamaao >> Jeeto >> aur Haathon-Haath le jaao
     actions:
       - label: Learn More
         url: /features

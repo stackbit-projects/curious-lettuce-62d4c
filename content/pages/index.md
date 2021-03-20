@@ -6,7 +6,7 @@ sections:
     subtitle: Khelo >> Kamaao >> Jeeto >> aur Haathon-Haath le jaao
     actions:
       - label: Whatsapp
-        url: /features
+        url: 'https://wa.me/+919987129247'
         style: primary
       - label: Contact Us
         url: /contact

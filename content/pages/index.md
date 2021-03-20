@@ -22,22 +22,6 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-  - type: features_section
-    title: Features
-    features:
-      - title: Feature 3
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
-        align: left
-        image: images/feature.svg
-        image_alt: Feature 3 placeholder image
-        image_position: right
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
   - type: blog_feed_section
     title: What's New
     show_recent: true

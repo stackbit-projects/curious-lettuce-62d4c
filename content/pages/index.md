@@ -5,7 +5,7 @@ sections:
     title: ⭐BET EXCHANGE OFFICIAL⭐
     subtitle: Khelo >> Kamaao >> Jeeto >> aur Haathon-Haath le jaao
     actions:
-      - label: telegram
+      - label: Whatsapp
         url: /features
         style: primary
       - label: Contact Us

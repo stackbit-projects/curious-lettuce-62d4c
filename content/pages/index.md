@@ -22,6 +22,7 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
+    image: images/Screenshot 2021-03-20 at 11.12.10 PM.png
   - type: features_section
     title: Features
     features:
